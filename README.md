@@ -1,4 +1,4 @@
-# RockPaperScissorsTests
+# RockPaperScissors
 In this game you can play with a bot in a classic game — rock paper scissors! There are a total of 10 rounds in the game and at the end you will receive a notification of finishing with your score.
 
 <div style="text-align:center">
